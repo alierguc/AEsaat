@@ -1,0 +1,12 @@
+C:\Users\Ali\source\repos\AEClock\AEClock\bin\Debug\AEClock.exe.config
+C:\Users\Ali\source\repos\AEClock\AEClock\bin\Debug\AEClock.exe
+C:\Users\Ali\source\repos\AEClock\AEClock\bin\Debug\AEClock.pdb
+C:\Users\Ali\source\repos\AEClock\AEClock\bin\Debug\Æsaat.dll
+C:\Users\Ali\source\repos\AEClock\AEClock\obj\Debug\AEClock.csprojResolveAssemblyReference.cache
+C:\Users\Ali\source\repos\AEClock\AEClock\obj\Debug\AEClock.Form1.resources
+C:\Users\Ali\source\repos\AEClock\AEClock\obj\Debug\AEClock.Properties.Resources.resources
+C:\Users\Ali\source\repos\AEClock\AEClock\obj\Debug\AEClock.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\AEClock\AEClock\obj\Debug\AEClock.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\AEClock\AEClock\obj\Debug\AEClock.csproj.CopyComplete
+C:\Users\Ali\source\repos\AEClock\AEClock\obj\Debug\AEClock.exe
+C:\Users\Ali\source\repos\AEClock\AEClock\obj\Debug\AEClock.pdb
