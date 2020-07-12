@@ -20,7 +20,8 @@ namespace AEClock
         {
             InitializeComponent();
         }
-
+        /*Deneme */
+        /* Lorem ipsum dolor sit amet seclorum */
         private void Form1_Load(object sender, EventArgs e)
         {
 
